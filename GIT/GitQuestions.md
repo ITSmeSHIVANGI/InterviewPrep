@@ -1,6 +1,7 @@
 # BASICS
 
 What is Git? How is it different from other version control systems?
+Ans : 
 What is the difference between Git and GitHub?
 What is a repository in Git?
 What is the difference between a local and remote repository?
